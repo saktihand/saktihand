@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saktihand
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning HTML, CSS, JS, and also SQL
+- 🌱 I’m currently learning PHP, HTML, CSS, JS, Python and also SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by following my Instagram @sakt1ch
 
